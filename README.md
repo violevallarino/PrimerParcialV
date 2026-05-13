@@ -1,2 +1,3 @@
-# PrimerParcialV
-Primer parcial IG 2026 Violeta Vallarino
+Violeta Vallarino
+Primer Parcial - Informática General 
+Artes Multimediales - UNA
