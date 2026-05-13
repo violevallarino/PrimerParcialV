@@ -1,0 +1,44 @@
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+body {
+    background-image: url(../img/fondo.png);
+    background-repeat: repeat;
+    background-size: auto;
+}
+
+.contenedor {
+    max-width: 1000px;
+    margin: 2rem auto;
+   background-color: #fafafa;
+    padding: 1.5rem;
+
+}
+
+header {
+    background-color: #000021;
+    padding: 3rem 1.5rem;
+    margin-bottom: 2rem;
+    text-align: center;
+}
+
+header h1, header h2 {
+    color: white;
+}
+
+nav {
+    margin-top: 2rem;
+}
+nav ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+     display: flex;
+     justify-content: center;
+     gap: 1.5rem;
+}
+nav a{
+    
+}
