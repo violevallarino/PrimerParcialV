@@ -150,9 +150,7 @@ cite {
     letter-spacing: 0.2rem;
     color: #888888;
 }
-id #right{
-    text-align:right;
-}
+
 #lista  {
     max-width: 600px;
     list-style: none;
@@ -175,7 +173,7 @@ footer{
     background-color: #5FBDF5;
     color: #000021;
     text-align: center;
-    font-family: 0.2rem;
+    font-size: 0.8rem;
 }
 address p a{
     color: #090245;
@@ -198,7 +196,7 @@ strong {
     height: auto;
     margin: 3rem auto;
 
-    padding: 10px;
+    padding: 0.6rem;
     border: 1px solid #d1d1d1;
     background-color: #ffffff;
     box-shadow: 0 4px 15px rgba(0,0,0,0.05);
@@ -208,7 +206,7 @@ strong {
     float: right;
     max-width: 280px;
     height: auto;
-    padding: 10px;
+    padding: 0.6rem;
     border: 1px solid #d1d1d1;
     background-color: #ffffff;
     margin-left: 2rem;
@@ -217,7 +215,7 @@ strong {
     
 }
 
-section #tecnologia::after{
+ #tecnologia::after{
     content: "";
     display: table;
     clear: both;
@@ -234,7 +232,7 @@ section #tecnologia::after{
     float: right;
     max-width: 250px;
     height: auto;
-    padding: 10px;
+    padding: 0.6rem;
     border: 1px solid #d1d1d1;
     background-color: #ffffff;
     margin-left: 2rem;
